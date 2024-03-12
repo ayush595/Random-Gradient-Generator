@@ -1,1 +1,1 @@
-# Random-Gradient-Generator
+# Gradient Generator
